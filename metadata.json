@@ -1,0 +1,8 @@
+{
+  "name": "Personal Expense Manager",
+  "description": "Daily personal expense tracker with category filtering, search, summaries, and spending analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
