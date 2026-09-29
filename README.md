@@ -6,8 +6,7 @@ This application fulfills the technical implementation criteria for **Project 3*
 
 ## 🚀 Repository & Live Parameters
 
-- **Live Application URL:** [Paste your Netlify Live URL here after deployment]
-- **GitHub Codebase Tree:** https://github.com
+- **Live Application URL:** [https://personal-expense-manager-2.netlify.app/]
 
 ## 🛠️ Technology Stack Built
 
@@ -24,3 +23,5 @@ This application fulfills the technical implementation criteria for **Project 3*
 - `src/components/ExpenseList.jsx` - Real-time active data tracking matrix lists
 - `src/components/SummaryCard.jsx` - Analytical aggregation cards dashboard view
 - `/screenshots` - Verification images showcasing system output records
+
+
